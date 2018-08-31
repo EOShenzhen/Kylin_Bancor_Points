@@ -18,7 +18,7 @@ EOS Ram System
 
 账户**kypsmintager**：用于铸币，部署klp.token 智能合约
 
-账户**kylinspoints: ** 用于转账，部署klp.connector 智能合约
+账户**kylinspoints** 用于转账，部署klp.connector 智能合约
 
 - 测试账户向`kylinspoints`转 EOS，会返回KLP token
 - 测试账户向`kylinspoints`转 KLP，会返回EOS token
